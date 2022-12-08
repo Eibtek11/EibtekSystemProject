@@ -1,0 +1,10 @@
+E:\Ebitek Projects\EibtekSystemProject\Domains\bin\Debug\netstandard2.1\Domains.deps.json
+E:\Ebitek Projects\EibtekSystemProject\Domains\bin\Debug\netstandard2.1\Domains.dll
+E:\Ebitek Projects\EibtekSystemProject\Domains\bin\Debug\netstandard2.1\Domains.pdb
+E:\Ebitek Projects\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.AssemblyReference.cache
+E:\Ebitek Projects\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ebitek Projects\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.AssemblyInfoInputs.cache
+E:\Ebitek Projects\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.AssemblyInfo.cs
+E:\Ebitek Projects\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
+E:\Ebitek Projects\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.dll
+E:\Ebitek Projects\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.pdb
