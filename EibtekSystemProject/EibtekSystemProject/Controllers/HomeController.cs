@@ -1,5 +1,7 @@
-﻿using EibtekSystemProject.Models;
+﻿using BL;
+using EibtekSystemProject.Models;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -14,14 +16,24 @@ namespace EibtekSystemProject.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly UserManager<ApplicationUser> _userManager;
+        public HomeController(UserManager<ApplicationUser> userManager, ILogger<HomeController> logger)
         {
             _logger = logger;
+            _userManager = userManager;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult>  Index()
         {
+            var user = await _userManager.GetUserAsync(User);
+            if (user == null)
+            {
+                ViewData["TwoFactorEnabled"] = false;
+            }
+            else
+            {
+                ViewData["TwoFactorEnabled"] = user.TwoFactorEnabled;
+            }
             return View();
         }
         [Authorize]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9xYOOnQQ20OmeU1yaUE1fWU0NAqVfwmaHiULNhrN0c+Mv2RlJi/NE7Mv1QMfdkoZ2ayAK8jYw8b6oU98fZ2Nxw==",
+  "dgSpecHash": "ErxpOk5ZRl/8PsQT80df/oi9O0i8iS1LsgEHCNldqPvx8rwo9kbbvy0DfqIpn62c94gc3kfoCItRzsKVPgmVLw==",
   "success": true,
-  "projectFilePath": "E:\\Ebitek Projects\\EibtekSystemProject\\EmailServices\\EmailServices.csproj",
+  "projectFilePath": "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\EmailServices\\EmailServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Next Store\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
     "C:\\Users\\Next Store\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",

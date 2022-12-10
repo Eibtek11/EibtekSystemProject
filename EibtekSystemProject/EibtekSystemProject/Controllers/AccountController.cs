@@ -285,6 +285,7 @@ namespace EibtekSystemProject.Controllers
         }
 
 
+
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
@@ -296,45 +297,30 @@ namespace EibtekSystemProject.Controllers
             return Challenge(properties, provider);
         }
 
+
+        [HttpGet]
         [AllowAnonymous]
-        public async Task<IActionResult>
-             ExternalLoginCallback(string returnUrl = null, string remoteError = null)
+        public async Task<IActionResult> ExternalLoginCallback(string returnurl = null, string remoteError = null)
         {
-            returnUrl = returnUrl ?? Url.Content("~/");
-
-            LoginViewModel loginViewModel = new LoginViewModel
-            {
-                ReturnUrl = returnUrl,
-                ExternalLogins =
-                        (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList()
-            };
-
+            returnurl = returnurl ?? Url.Content("~/");
             if (remoteError != null)
             {
-                ModelState
-                    .AddModelError(string.Empty, $"Error from external provider: {remoteError}");
-
-                return View("Login", loginViewModel);
+                ModelState.AddModelError(string.Empty, $"Error from external provider: {remoteError}");
+                return View(nameof(Login));
             }
-
-            // Get the login information about the user from the external login provider
             var info = await _signInManager.GetExternalLoginInfoAsync();
             if (info == null)
             {
-                ModelState
-                    .AddModelError(string.Empty, "Error loading external login information.");
-
-                return View("Login", loginViewModel);
+                return RedirectToAction(nameof(Login));
             }
 
-            // If the user already has a login (i.e if there is a record in AspNetUserLogins
-            // table) then sign-in the user with this external login provider
-            var signInResult = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider,
-                info.ProviderKey, isPersistent: false, bypassTwoFactor: false);
-
-            if (signInResult.Succeeded)
+            //Sign in the user with this external login provider, if the user already has a login.
+            var result = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, isPersistent: false);
+            if (result.Succeeded)
             {
-                return LocalRedirect(returnUrl);
+                //update any authentication tokens
+                await _signInManager.UpdateExternalAuthenticationTokensAsync(info);
+                return LocalRedirect(returnurl);
             }
             // If there is no record in AspNetUserLogins table, the user may not have
             // a local account
@@ -366,17 +352,31 @@ namespace EibtekSystemProject.Controllers
                     await _userManager.UpdateAsync(user);
                     await _signInManager.SignInAsync(user, isPersistent: false);
 
-                    return LocalRedirect(returnUrl);
+                    return LocalRedirect(returnurl);
                 }
 
                 // If we cannot find the user email we cannot continue
-                ViewBag.ErrorTitle = $"Email claim not received from: {info.LoginProvider}";
-                ViewBag.ErrorMessage = "Please contact support on Pragim@PragimTech.com";
-
-                return View("Error");
+               
             }
-        }
+            if (result.RequiresTwoFactor)
+            {
+                return RedirectToAction("VerifyAuthenticatorCode", new { returnurl = returnurl });
+            }
+            else
+            {
+                //If the user does not have account, then we will ask the user to create an account.
+                ViewData["ReturnUrl"] = returnurl;
+                ViewData["ProviderDisplayName"] = info.ProviderDisplayName;
+                var email = info.Principal.FindFirstValue(ClaimTypes.Email);
+                var name = info.Principal.FindFirstValue(ClaimTypes.Name);
+                return View("ExternalLoginConfirmation", new ExternalLoginConfirmationViewModel { Email = email, Name = name });
 
+            }
+            ViewBag.ErrorTitle = $"Email claim not received from: {info.LoginProvider}";
+            ViewBag.ErrorMessage = "Please contact support on Pragim@PragimTech.com";
+
+            return View("Error");
+        }
 
 
         [HttpPost]
@@ -395,6 +395,7 @@ namespace EibtekSystemProject.Controllers
                     return View("Error");
                 }
                 var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name };
+                user.EmailConfirmed = true;
                 var result = await _userManager.CreateAsync(user);
                 if (result.Succeeded)
                 {
@@ -416,7 +417,7 @@ namespace EibtekSystemProject.Controllers
 
 
 
-      
+
 
 
 

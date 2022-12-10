@@ -6571,11 +6571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Ebitek Projects\\EibtekSystemProject\\EibtekSystemProject\\EibtekSystemProject.csproj",
+      "projectUniqueName": "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\EibtekSystemProject\\EibtekSystemProject.csproj",
       "projectName": "EibtekSystemProject",
-      "projectPath": "E:\\Ebitek Projects\\EibtekSystemProject\\EibtekSystemProject\\EibtekSystemProject.csproj",
+      "projectPath": "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\EibtekSystemProject\\EibtekSystemProject.csproj",
       "packagesPath": "C:\\Users\\Next Store\\.nuget\\packages\\",
-      "outputPath": "E:\\Ebitek Projects\\EibtekSystemProject\\EibtekSystemProject\\obj\\",
+      "outputPath": "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\EibtekSystemProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6597,14 +6597,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Ebitek Projects\\EibtekSystemProject\\BL\\BL.csproj": {
-              "projectPath": "E:\\Ebitek Projects\\EibtekSystemProject\\BL\\BL.csproj"
+            "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\BL\\BL.csproj"
             },
-            "E:\\Ebitek Projects\\EibtekSystemProject\\Domains\\Domains.csproj": {
-              "projectPath": "E:\\Ebitek Projects\\EibtekSystemProject\\Domains\\Domains.csproj"
+            "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\Domains\\Domains.csproj": {
+              "projectPath": "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\Domains\\Domains.csproj"
             },
-            "E:\\Ebitek Projects\\EibtekSystemProject\\EmailServices\\EmailServices.csproj": {
-              "projectPath": "E:\\Ebitek Projects\\EibtekSystemProject\\EmailServices\\EmailServices.csproj"
+            "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\EmailServices\\EmailServices.csproj": {
+              "projectPath": "C:\\Users\\Next Store\\Desktop\\Ebitek Projects\\EibtekSystemProject\\EmailServices\\EmailServices.csproj"
             }
           }
         }
