@@ -1,6 +1,8 @@
 using BL;
+using EibtekSystemProject.Authorize;
 using EibtekSystemProject.Models;
 using EmailService;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +36,7 @@ namespace EibtekSystemProject
          .Get<EmailConfiguration>();
             services.AddSingleton(emailConfig);
             services.AddScoped<IEmailSender, EmailSender>();
+
             services.AddAuthentication()
              .AddGoogle(options =>
              {
@@ -50,7 +53,37 @@ namespace EibtekSystemProject
                 options.AppId = "1387677424973135";
                 options.AppSecret = "de6fc7e479121219c97a2e079eee1b3e";
             });
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("Admin", policy => policy.RequireRole("Admin"));
+                options.AddPolicy("UserAndAdmin", policy => policy.RequireRole("Admin").RequireRole("User"));
+                options.AddPolicy("Admin_CreateAccess", policy => policy.RequireRole("Admin").RequireClaim("create", "True"));
+                options.AddPolicy("Admin_Create_Edit_DeleteAccess", policy => policy.RequireRole("Admin").RequireClaim("create", "True")
+                .RequireClaim("edit", "True")
+                .RequireClaim("Delete", "True"));
+
+                options.AddPolicy("Admin_Create_Edit_DeleteAccess_OR_SuperAdmin", policy => policy.RequireAssertion(context =>
+                AuthorizeAdminWithClaimsOrSuperAdmin(context)));
+                options.AddPolicy("OnlySuperAdminChecker", policy => policy.Requirements.Add(new OnlySuperAdminChecker()));
+                options.AddPolicy("AdminWithMoreThan1000Days", policy => policy.Requirements.Add(new AdminWithMoreThan1000DaysRequirement(1000)));
+                options.AddPolicy("FirstNameAuth", policy => policy.Requirements.Add(new FirstNameAuthRequirement("ahmedmostafa706@gmail.com")));
+            });
+            services.AddScoped<IAuthorizationHandler, AdminWithOver1000DaysHandler>();
+            services.AddScoped<IAuthorizationHandler, FirstNameAuthHandler>();
+            services.AddScoped<INumberOfDaysForAccount, NumberOfDaysForAccount>();
             services.AddControllersWithViews();
+            services.AddScoped<ClientService, ClsClients>();
+            services.AddScoped<EmployeeCategoryService, ClsEmployeeCategories>();
+            services.AddScoped<EmployeeEvaluationService, ClsEmployeeEvaluations>();
+            services.AddScoped<EmployeeService, ClsEmployees>();
+            services.AddScoped<ExpenseCategoryService, ClsExpenseCategories>();
+            services.AddScoped<ExpenseTransactionService, ClsExpenseTransactions>();
+            services.AddScoped<MonthRecordService, ClsMonthRecord>();
+            services.AddScoped<PaidProjectInstallmentService, ClsPaidProjectInstallments>();
+            services.AddScoped<PaidSalesEmplyeeInstallmentService, ClsPaidSalesEmplyeeInstallments>();
+            services.AddScoped<ProjectInstallmentService, ClsProjectInstallment>();
+            services.AddScoped<ProjectService, ClsProjects>();
+            services.AddRazorPages();
             services.AddDbContext<EibtekSystemDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddIdentity<ApplicationUser, IdentityRole>(options =>
             {
@@ -64,7 +97,14 @@ namespace EibtekSystemProject
                 options.Lockout.MaxFailedAccessAttempts = 5;
                 options.SignIn.RequireConfirmedEmail = true;
 
-            }).AddErrorDescriber<CustomIdentityErrorDescriber>().AddEntityFrameworkStores<EibtekSystemDbContext>().AddDefaultTokenProviders();
+            }).AddErrorDescriber<CustomIdentityErrorDescriber>().AddEntityFrameworkStores<EibtekSystemDbContext>().AddDefaultTokenProviders();    ///.AddDefaultUI();
+
+
+            services.ConfigureApplicationCookie(opt =>
+            {
+                opt.AccessDeniedPath = new Microsoft.AspNetCore.Http.PathString("/Home/Accessdenied");
+            });
+          
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -94,14 +134,24 @@ namespace EibtekSystemProject
 
                 name: "areas",
                 pattern: "{area:exists}/{controller=Home}/{action=Index}");
+               
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
+               
             });
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+        }
+        private bool AuthorizeAdminWithClaimsOrSuperAdmin(AuthorizationHandlerContext context)
+        {
+            return (context.User.IsInRole("Admin") && context.User.HasClaim(c => c.Type == "Create" && c.Value == "True")
+                        && context.User.HasClaim(c => c.Type == "Edit" && c.Value == "True")
+                        && context.User.HasClaim(c => c.Type == "Delete" && c.Value == "True")
+                    ) || context.User.IsInRole("SuperAdmin");
         }
     }
 }

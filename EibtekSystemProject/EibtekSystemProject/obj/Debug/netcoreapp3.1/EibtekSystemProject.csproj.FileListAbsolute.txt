@@ -397,3 +397,627 @@ C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EibtekSystemProj
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.dll
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.pdb
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.genruntimeconfig.cache
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.StaticWebAssets.xml
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.csproj.AssemblyReference.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.AssemblyInfoInputs.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.AssemblyInfo.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.csproj.CoreCompileInputs.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.MvcApplicationPartsAssemblyInfo.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.MvcApplicationPartsAssemblyInfo.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorAssemblyInfo.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorAssemblyInfo.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\staticwebassets\EibtekSystemProject.StaticWebAssets.Manifest.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\staticwebassets\EibtekSystemProject.StaticWebAssets.xml
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.TagHelpers.input.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.TagHelpers.output.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorCoreGenerate.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\AuthenticatorConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\EmailConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\EnableAuthenticator.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Error.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLoginConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Lockout.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyAuthenticatorCode.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartialCustom.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Notifications.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ManageUserClaims.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorTargetAssemblyInfo.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorTargetAssemblyInfo.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.dll
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.StaticWebAssets.xml
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.exe
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.deps.json
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.runtimeconfig.json
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.runtimeconfig.dev.json
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.Views.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.Views.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\BL.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Domains.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EmailServices.dll
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\BL.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EmailServices.pdb
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.Views.pdb
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.csproj.CopyComplete
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.genruntimeconfig.cache
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Upsert.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\AdminAccess.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\Admin_CreateAccess.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\Admin_Create_Edit_DeleteAccess.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\Admin_Create_Edit_DeleteAccess_OR_SuperAdmin.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\AllAccess.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\AuthorizedAccess.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\FirstNameAuth.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\OnlyBhrugen.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\UserAccess.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\UserANDAdminAccess.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\UserORAdminAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.StaticWebAssets.xml
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.exe
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.deps.json
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.runtimeconfig.json
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.runtimeconfig.dev.json
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.Views.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EibtekSystemProject.Views.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\BL.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Domains.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EmailServices.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\BL.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\Domains.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\bin\Debug\netcoreapp3.1\EmailServices.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.csproj.AssemblyReference.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.AssemblyInfoInputs.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.AssemblyInfo.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.csproj.CoreCompileInputs.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.MvcApplicationPartsAssemblyInfo.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.MvcApplicationPartsAssemblyInfo.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorAssemblyInfo.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorAssemblyInfo.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\staticwebassets\EibtekSystemProject.StaticWebAssets.Manifest.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\staticwebassets\EibtekSystemProject.StaticWebAssets.xml
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.TagHelpers.input.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.TagHelpers.output.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorCoreGenerate.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\AdminAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\Admin_CreateAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\Admin_Create_Edit_DeleteAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\Admin_Create_Edit_DeleteAccess_OR_SuperAdmin.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\AllAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\AuthorizedAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\FirstNameAuth.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\OnlyBhrugen.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\UserAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\UserANDAdminAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\AccessChecker\UserORAdminAccess.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\AuthenticatorConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\EmailConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\EnableAuthenticator.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Error.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLoginConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Lockout.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyAuthenticatorCode.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Upsert.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartialCustom.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Notifications.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ManageUserClaims.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorTargetAssemblyInfo.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.RazorTargetAssemblyInfo.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.Views.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.csproj.CopyComplete
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\EibtekSystemProject.genruntimeconfig.cache

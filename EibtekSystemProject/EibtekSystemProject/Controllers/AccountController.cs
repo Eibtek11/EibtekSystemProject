@@ -20,13 +20,15 @@ namespace EibtekSystemProject.Controllers
     [Authorize]
     public class AccountController : Controller
     {
+        private readonly EibtekSystemDbContext _db;
         private readonly UserManager<ApplicationUser> _userManager;
+        //one
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IEmailSender _emailSender;
         private readonly UrlEncoder _urlEncoder;
         // i removed IEmailSender emailSender,
-        public AccountController(IEmailSender emailSender, UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, 
+        public AccountController(EibtekSystemDbContext db,IEmailSender emailSender, UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, 
             UrlEncoder urlEncoder, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
@@ -35,8 +37,9 @@ namespace EibtekSystemProject.Controllers
             _urlEncoder = urlEncoder;
             _roleManager = roleManager;
             _emailSender = emailSender;
+            _db = db;
         }
-
+       
         public IActionResult Index()
         {
             return View();
@@ -46,13 +49,14 @@ namespace EibtekSystemProject.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> Register(string returnurl=null)
         {
+            //two
             if(!await _roleManager.RoleExistsAsync("Admin"))
             {
                 //create roles
                 await _roleManager.CreateAsync(new IdentityRole("Admin"));
                 await _roleManager.CreateAsync(new IdentityRole("User"));
             }
-
+            //three
             List<SelectListItem> listItems = new List<SelectListItem>();
             listItems.Add(new SelectListItem()
             {
@@ -68,8 +72,9 @@ namespace EibtekSystemProject.Controllers
 
 
             ViewData["ReturnUrl"] = returnurl;
+            //four    five registerview model //six register view
             RegisterViewModel registerViewModel = new RegisterViewModel() {
-                //RoleList = listItems
+                RoleList = listItems
             };
             return View(registerViewModel);
         }
@@ -83,18 +88,19 @@ namespace EibtekSystemProject.Controllers
             returnurl = returnurl ?? Url.Content("~/");
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name };
+                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name , DateCreated=DateTime.Now };
                 var result = await _userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    //if(model.RoleSelected!=null && model.RoleSelected.Length>0 && model.RoleSelected == "Admin")
-                    //{
-                    //    await _userManager.AddToRoleAsync(user, "Admin");
-                    //}
-                    //else
-                    //{
-                    //    await _userManager.AddToRoleAsync(user, "User");
-                    //}
+                    //seven
+                    if (model.RoleSelected != null && model.RoleSelected.Length > 0 && model.RoleSelected == "Admin")
+                    {
+                        await _userManager.AddToRoleAsync(user, "Admin");
+                    }
+                    else
+                    {
+                        await _userManager.AddToRoleAsync(user, "User");
+                    }
 
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     var callbackurl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: HttpContext.Request.Scheme);
@@ -110,7 +116,7 @@ namespace EibtekSystemProject.Controllers
                 }
                 AddErrors(result);
             }
-
+            //eight
             List<SelectListItem> listItems = new List<SelectListItem>();
             listItems.Add(new SelectListItem()
             {
@@ -122,7 +128,7 @@ namespace EibtekSystemProject.Controllers
                 Value = "User",
                 Text = "User"
             });
-            //model.RoleList = listItems;
+            model.RoleList = listItems;
             return View(model);
         }
 
@@ -165,6 +171,22 @@ namespace EibtekSystemProject.Controllers
                 var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, lockoutOnFailure: true);
                 if (result.Succeeded)
                 {
+                  
+
+                    ApplicationUser use = _userManager.Users.Where(a => a.Email == model.Email).FirstOrDefault();
+                    var claim = await _userManager.GetClaimsAsync(use);
+                    if (claim.Count > 0)
+                    {
+                        try
+                        {
+                            await _userManager.RemoveClaimAsync(use, claim.FirstOrDefault(u => u.Type == "Name"));
+                        }
+                        catch (Exception)
+                        {
+
+                        }
+                    }
+                    await _userManager.AddClaimAsync(use, new System.Security.Claims.Claim("Name", use.Email));
                     return LocalRedirect(returnurl);
                 }
                 if (result.RequiresTwoFactor)
@@ -318,9 +340,24 @@ namespace EibtekSystemProject.Controllers
             var result = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, isPersistent: false);
             if (result.Succeeded)
             {
+              
+
                 //update any authentication tokens
                 await _signInManager.UpdateExternalAuthenticationTokensAsync(info);
-                return LocalRedirect(returnurl);
+                if (result.RequiresTwoFactor)
+                {
+                    return RedirectToAction(nameof(VerifyAuthenticatorCode), new { returnurl, RememberMe=true });
+                }
+                if (result.IsLockedOut)
+                {
+                    return View("Lockout");
+                }
+                else
+                {
+                    return LocalRedirect(returnurl);
+
+                }
+               
             }
             // If there is no record in AspNetUserLogins table, the user may not have
             // a local account
@@ -341,9 +378,11 @@ namespace EibtekSystemProject.Controllers
                             UserName = info.Principal.FindFirstValue(ClaimTypes.Email),
                             Email = info.Principal.FindFirstValue(ClaimTypes.Email),
                             Name = info.Principal.FindFirstValue(ClaimTypes.Email),
+                            DateCreated = DateTime.Now
                         };
 
                         await _userManager.CreateAsync(user);
+                     
                     }
 
                     // Add a login (i.e insert a row for the user in AspNetUserLogins table)
@@ -351,8 +390,20 @@ namespace EibtekSystemProject.Controllers
                     user.EmailConfirmed = true;
                     await _userManager.UpdateAsync(user);
                     await _signInManager.SignInAsync(user, isPersistent: false);
+                    if (result.RequiresTwoFactor)
+                    {
+                        return RedirectToAction(nameof(VerifyAuthenticatorCode), new { returnurl, RememberMe = true });
+                    }
+                    if (result.IsLockedOut)
+                    {
+                        return View("Lockout");
+                    }
+                    else
+                    {
+                        return LocalRedirect(returnurl);
 
-                    return LocalRedirect(returnurl);
+                    }
+                  
                 }
 
                 // If we cannot find the user email we cannot continue
@@ -362,6 +413,11 @@ namespace EibtekSystemProject.Controllers
             {
                 return RedirectToAction("VerifyAuthenticatorCode", new { returnurl = returnurl });
             }
+            if (result.IsLockedOut)
+            {
+                return View("Lockout");
+            }
+
             else
             {
                 //If the user does not have account, then we will ask the user to create an account.
@@ -394,11 +450,12 @@ namespace EibtekSystemProject.Controllers
                 {
                     return View("Error");
                 }
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name };
+                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name , DateCreated=DateTime.Now };
                 user.EmailConfirmed = true;
                 var result = await _userManager.CreateAsync(user);
                 if (result.Succeeded)
                 {
+                    //nine ten index
                     await _userManager.AddToRoleAsync(user, "User");
                     result = await _userManager.AddLoginAsync(user, info);
                     if (result.Succeeded)
@@ -516,8 +573,7 @@ namespace EibtekSystemProject.Controllers
         }
 
 
-
-
+      
 
 
 

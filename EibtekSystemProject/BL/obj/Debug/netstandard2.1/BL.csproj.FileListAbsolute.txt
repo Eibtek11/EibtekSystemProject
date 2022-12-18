@@ -37,3 +37,29 @@ C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\BL\obj\Debug\net
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.dll
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.pdb
+D:\EibtekSystemProject\BL\bin\Debug\netstandard2.1\BL.deps.json
+D:\EibtekSystemProject\BL\bin\Debug\netstandard2.1\BL.dll
+D:\EibtekSystemProject\BL\bin\Debug\netstandard2.1\BL.pdb
+D:\EibtekSystemProject\BL\bin\Debug\netstandard2.1\Domains.dll
+D:\EibtekSystemProject\BL\bin\Debug\netstandard2.1\Domains.pdb
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.csproj.AssemblyReference.cache
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfoInputs.cache
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfo.cs
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCompileInputs.cache
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.dll
+D:\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\bin\Debug\netstandard2.1\BL.deps.json
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\bin\Debug\netstandard2.1\BL.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\bin\Debug\netstandard2.1\BL.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\bin\Debug\netstandard2.1\Domains.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\bin\Debug\netstandard2.1\Domains.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.csproj.AssemblyReference.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfoInputs.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfo.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCompileInputs.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\BL\obj\Debug\netstandard2.1\BL.pdb

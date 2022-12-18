@@ -25,6 +25,7 @@ namespace EibtekSystemProject.Controllers
 
         public async Task<IActionResult>  Index()
         {
+            
             var user = await _userManager.GetUserAsync(User);
             if (user == null)
             {
@@ -36,7 +37,7 @@ namespace EibtekSystemProject.Controllers
             }
             return View();
         }
-        [Authorize]
+        [Authorize(Roles ="Admin")]
         public IActionResult Privacy()
         {
             return View();
@@ -46,6 +47,12 @@ namespace EibtekSystemProject.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+
+        public IActionResult AccessDenied()
+        {
+            return View();
         }
     }
 }

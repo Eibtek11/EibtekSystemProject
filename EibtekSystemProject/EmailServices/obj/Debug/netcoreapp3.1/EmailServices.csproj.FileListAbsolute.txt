@@ -37,3 +37,29 @@ C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EmailServices\ob
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
 C:\Users\Next Store\Desktop\Ebitek Projects\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb
+D:\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.deps.json
+D:\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.dll
+D:\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.pdb
+D:\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.dll
+D:\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.AssemblyReference.cache
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfoInputs.cache
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfo.cs
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CoreCompileInputs.cache
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
+D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.deps.json
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.pdb
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.AssemblyReference.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfoInputs.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfo.cs
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CoreCompileInputs.cache
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
+E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb
