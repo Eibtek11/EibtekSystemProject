@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7NiV4Dgoknv5AB4XcPUIqkA4qBq8BZ2kYiNOUCVXwEy9L92PCj6qn44Pd2qg7ppOgkL/RMEXJGjZMiojDeoSQA==",
+  "dgSpecHash": "QFi/NmuL+MFFbvvnt0dJ3Rb49c2rTVHY2OqPIlT+DAnMUl9ws/TJzePBbacgZI4KDOstL7i7pE6bHgykopd92g==",
   "success": true,
-  "projectFilePath": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\Domains\\Domains.csproj",
+  "projectFilePath": "D:\\EibtekSystemProject\\Domains\\Domains.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Next Store\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
     "C:\\Users\\Next Store\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",

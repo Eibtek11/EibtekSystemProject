@@ -38,13 +38,3 @@ D:\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.AssemblyInfo.cs
 D:\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
 D:\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.dll
 D:\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.pdb
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\bin\Debug\netstandard2.1\Domains.deps.json
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\bin\Debug\netstandard2.1\Domains.dll
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\bin\Debug\netstandard2.1\Domains.pdb
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.AssemblyReference.cache
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.GeneratedMSBuildEditorConfig.editorconfig
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.AssemblyInfoInputs.cache
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.AssemblyInfo.cs
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.dll
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\Domains\obj\Debug\netstandard2.1\Domains.pdb

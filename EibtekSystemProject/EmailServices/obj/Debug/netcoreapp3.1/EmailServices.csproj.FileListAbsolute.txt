@@ -50,16 +50,3 @@ D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.cspro
 D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
 D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
 D:\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.deps.json
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.dll
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.pdb
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.dll
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.pdb
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.AssemblyReference.cache
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfoInputs.cache
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfo.cs
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CoreCompileInputs.cache
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
-E:\Ebitek Projects\EibtekSystemGithub\EibtekSystemProject\EibtekSystemProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb

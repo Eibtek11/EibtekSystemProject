@@ -225,5 +225,7 @@ namespace EibtekSystemProject.Controllers
             TempData[SD.Success] = "Claims updated successfully";
             return RedirectToAction(nameof(Index));
         }
+
+      
     }
 }

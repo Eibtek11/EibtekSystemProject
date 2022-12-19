@@ -31,8 +31,4 @@
     <ProjectReference Include="..\EmailServices\EmailServices.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\Uploads\" />
-  </ItemGroup>
-
 </Project>

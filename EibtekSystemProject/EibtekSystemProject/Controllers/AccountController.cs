@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Security.Claims;
 using System.Text.Encodings.Web;
@@ -88,7 +89,7 @@ namespace EibtekSystemProject.Controllers
             returnurl = returnurl ?? Url.Content("~/");
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name , DateCreated=DateTime.Now };
+                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name , DateCreated=DateTime.Now , ImageProfile= "312287690_202877398916203_6801447073936034210_n.jpg" };
                 var result = await _userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
@@ -378,7 +379,9 @@ namespace EibtekSystemProject.Controllers
                             UserName = info.Principal.FindFirstValue(ClaimTypes.Email),
                             Email = info.Principal.FindFirstValue(ClaimTypes.Email),
                             Name = info.Principal.FindFirstValue(ClaimTypes.Email),
-                            DateCreated = DateTime.Now
+                            DateCreated = DateTime.Now,
+                 
+                            ImageProfile = "312287690_202877398916203_6801447073936034210_n.jpg"
                         };
 
                         await _userManager.CreateAsync(user);
@@ -450,7 +453,7 @@ namespace EibtekSystemProject.Controllers
                 {
                     return View("Error");
                 }
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name , DateCreated=DateTime.Now };
+                var user = new ApplicationUser { UserName = model.Email, Email = model.Email, Name = model.Name , DateCreated=DateTime.Now, ImageProfile = "312287690_202877398916203_6801447073936034210_n.jpg" };
                 user.EmailConfirmed = true;
                 var result = await _userManager.CreateAsync(user);
                 if (result.Succeeded)
@@ -573,7 +576,86 @@ namespace EibtekSystemProject.Controllers
         }
 
 
-      
+
+
+
+
+        public IActionResult Views(string id)
+        {
+            HomePageModel oHomePageModel = new HomePageModel();
+            oHomePageModel.UserData = _db.Users.ToList();
+            oHomePageModel.OneUser = _userManager.Users.Where(a => a.Id == id).FirstOrDefault();
+            return View(oHomePageModel);
+        }
+
+
+
+
+
+
+        [HttpGet]
+        [Authorize]
+        public IActionResult Edit(string id)
+        {
+            HomePageModel oHomePageModel = new HomePageModel();
+            oHomePageModel.UserData = _db.Users.ToList();
+            oHomePageModel.OneUser = _userManager.Users.Where(a => a.Id == id).FirstOrDefault();
+            return View(oHomePageModel);
+        }
+        [HttpPost]
+        [Authorize]
+        public async Task<IActionResult> EditUserAsync(ApplicationUser u,  List<IFormFile> files)
+        {
+
+
+            var user = await _userManager.FindByEmailAsync(u.Email);
+
+           
+            user.Email = u.Email;
+            user.Name = u.Name;
+            foreach (var file in files)
+            {
+                if (file.Length > 0)
+                {
+                    string ImageName = Guid.NewGuid().ToString() + ".jpg";
+                    var filePaths = Path.Combine(Directory.GetCurrentDirectory(), @"wwwroot\Uploads", ImageName);
+                    using (var stream = System.IO.File.Create(filePaths))
+                    {
+                        await file.CopyToAsync(stream);
+                    }
+                    user.ImageProfile = ImageName;
+                }
+            }
+
+
+
+
+
+
+
+            var result = await _userManager.UpdateAsync(user);
+
+
+            if(result.Succeeded)
+            {
+                TempData[SD.Success] = "User Profile successfully Updated.";
+            }
+            else
+            {
+                TempData[SD.Error] = "Error while Updating The Profile";
+            }
+
+
+
+
+
+
+
+
+            return RedirectToAction(nameof(HomeController.Index), "Home");
+        }
+
+
 
 
 

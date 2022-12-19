@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWQDg4BDlGa4VCuFvbv45VjhtJQB7rPh626wiAZvzhPEqHSmfrMmSzDS9aHVk4j3Fdmjm3NL/2+nG3R2o3ryIQ==",
+  "dgSpecHash": "+VLhzk8LKwnL+b6AVCCPyToRiVHnLVW+8xS/0MoPRj1JtQG7YJi/0diOI3p+7Ae8JmBC4CdiHdmZceEouCiS1Q==",
   "success": true,
-  "projectFilePath": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\EibtekSystemProject\\EibtekSystemProject.csproj",
+  "projectFilePath": "D:\\EibtekSystemProject\\EibtekSystemProject\\EibtekSystemProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Next Store\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
     "C:\\Users\\Next Store\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
@@ -185,7 +185,8 @@
     "C:\\Users\\Next Store\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Next Store\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Next Store\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Next Store\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Next Store\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Next Store\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": [
     {

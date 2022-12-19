@@ -11,10 +11,10 @@ namespace BL
 {
     public class ApplicationUser:IdentityUser
     {
-      
 
 
-       
+        public string ImageProfile { get; set; }
+
         public string Name { get; set; }
         public DateTime DateCreated { get; set; }
         [NotMapped]

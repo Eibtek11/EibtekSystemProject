@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\EmailServices\\EmailServices.csproj": {}
+    "D:\\EibtekSystemProject\\EmailServices\\EmailServices.csproj": {}
   },
   "projects": {
-    "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\Domains\\Domains.csproj": {
+    "D:\\EibtekSystemProject\\Domains\\Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\Domains\\Domains.csproj",
+        "projectUniqueName": "D:\\EibtekSystemProject\\Domains\\Domains.csproj",
         "projectName": "Domains",
-        "projectPath": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\Domains\\Domains.csproj",
+        "projectPath": "D:\\EibtekSystemProject\\Domains\\Domains.csproj",
         "packagesPath": "C:\\Users\\Next Store\\.nuget\\packages\\",
-        "outputPath": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\Domains\\obj\\",
+        "outputPath": "D:\\EibtekSystemProject\\Domains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,14 +96,14 @@
         }
       }
     },
-    "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\EmailServices\\EmailServices.csproj": {
+    "D:\\EibtekSystemProject\\EmailServices\\EmailServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\EmailServices\\EmailServices.csproj",
+        "projectUniqueName": "D:\\EibtekSystemProject\\EmailServices\\EmailServices.csproj",
         "projectName": "EmailServices",
-        "projectPath": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\EmailServices\\EmailServices.csproj",
+        "projectPath": "D:\\EibtekSystemProject\\EmailServices\\EmailServices.csproj",
         "packagesPath": "C:\\Users\\Next Store\\.nuget\\packages\\",
-        "outputPath": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\EmailServices\\obj\\",
+        "outputPath": "D:\\EibtekSystemProject\\EmailServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -125,8 +125,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\Domains\\Domains.csproj": {
-                "projectPath": "E:\\Ebitek Projects\\EibtekSystemGithub\\EibtekSystemProject\\EibtekSystemProject\\Domains\\Domains.csproj"
+              "D:\\EibtekSystemProject\\Domains\\Domains.csproj": {
+                "projectPath": "D:\\EibtekSystemProject\\Domains\\Domains.csproj"
               }
             }
           }

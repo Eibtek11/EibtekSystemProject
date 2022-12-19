@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+
 namespace BL
 {
     public interface ClientService
@@ -37,9 +38,10 @@ namespace BL
             try
             {
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
-               
+                item.CurrentState = 1;
                 ctx.TbClients.Add(item);
                 ctx.SaveChanges();
+               
                 return true;
             }
             catch (Exception ex)
