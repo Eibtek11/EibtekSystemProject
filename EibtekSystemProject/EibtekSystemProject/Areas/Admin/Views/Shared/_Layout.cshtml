@@ -312,7 +312,7 @@
             <ul class="nav navbar-nav flex-row">
                 <li class="nav-item mr-auto"><a class="navbar-brand" href="~/Admin/html/rtl/vertical-menu-template-dark/index.html">
                         <div class="brand-logo"></div>
-                        <h2 class="brand-text mb-0">Vuexy</h2>
+                        <h2 class="brand-text mb-0">EIBTEK  </h2>
                     </a></li>
                 <li class="nav-item nav-toggle"><a class="nav-link modern-nav-toggle pr-0" data-toggle="collapse"><i class="feather icon-x d-block d-xl-none font-medium-4 primary toggle-icon"></i><i class="toggle-icon feather icon-disc font-medium-4 d-none d-xl-block collapse-toggle-icon primary" data-ticon="icon-disc"></i></a></li>
             </ul>
@@ -350,25 +350,43 @@
                         </li>
                     </ul>
                 </li>*@
-                <li class=" nav-item"><a href="#"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Client</span></a>
+                <li class=" nav-item"><a href="#"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Clients</span></a>
                     <ul class="menu-content">
                         <li><a asp-controller="Client" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="List">Profiles</span></a>
                         </li>
-                        <li><a href="app-user-view.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="View">Projects</span></a>
+                        <li>
+                            <a asp-controller="Project" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="View">Projects</span></a>
                         </li>
                       @*  <li><a href="app-user-edit.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Edit">Edit</span></a>
                         </li>*@
                     </ul>
                 </li>
                 <li class=" nav-item">
-                    <a href="#"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Employee</span></a>
+                    <a href="#"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Employees</span></a>
                     <ul class="menu-content">
                         <li>
-                            <a asp-controller="EmployeeCategory" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="List">Employee Category</span></a>
+                            <a asp-controller="EmployeeCategory" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="List">Employee Categories</span></a>
                         </li>
                         <li>
-                            <a asp-controller="Employee" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="View">Employee</span></a>
+                            <a asp-controller="Employee" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="View">Employees</span></a>
                         </li>
+                        <li>
+                            <a asp-controller="EmployeeEvaluation" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="View">Employee Evaluations</span></a>
+                        </li>
+                      @*  <li><a href="app-user-edit.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Edit">Edit</span></a>
+                        </li>*@
+                    </ul>
+                </li>
+                 <li class=" nav-item">
+                    <a href="#"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Expense</span></a>
+                    <ul class="menu-content">
+                        <li>
+                            <a asp-controller="ExpenseCategory" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="List">Expense Categories</span></a>
+                        </li>
+                        <li>
+                            <a asp-controller="ExpenseTransaction" asp-action="Index"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="View">Expense Transactions</span></a>
+                        </li>
+                       
                       @*  <li><a href="app-user-edit.html"><i class="feather icon-circle"></i><span class="menu-item" data-i18n="Edit">Edit</span></a>
                         </li>*@
                     </ul>

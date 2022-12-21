@@ -760,3 +760,11 @@ D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\A
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Notifications.cshtml.g.cs
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Employee\Form.cshtml.g.cs
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Employee\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\EmployeeEvaluation\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\EmployeeEvaluation\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ExpenseCategory\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ExpenseCategory\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ExpenseTransaction\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ExpenseTransaction\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Project\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Project\Index.cshtml.g.cs
