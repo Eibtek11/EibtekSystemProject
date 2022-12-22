@@ -768,3 +768,11 @@ D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\A
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ExpenseTransaction\Index.cshtml.g.cs
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Project\Form.cshtml.g.cs
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Project\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\MonthRecord\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\MonthRecord\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PaidProjectInstallment\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PaidProjectInstallment\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PaidSalesEmplyeeInstallment\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PaidSalesEmplyeeInstallment\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProjectInstallment\Form.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProjectInstallment\Index.cshtml.g.cs

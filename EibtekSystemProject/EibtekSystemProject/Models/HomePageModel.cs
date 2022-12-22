@@ -47,6 +47,10 @@ namespace EibtekSystemProject.Models
         public IEnumerable<TbExpenseCategory> lstExpenseCategories { get; set; }
         public IEnumerable<TbExpenseTransaction> lstExpenseTransactions { get; set; }
         public IEnumerable<TbProject> lstProjects { get; set; }
+        public IEnumerable<TbMonthRecord> lstMonthRecords { get; set; }
+        public IEnumerable<TbPaidProjectInstallment> lstPaidProjectInstallments { get; set; }
+        public IEnumerable<TbPaidSalesEmplyeeInstallment> lstPaidSalesEmplyeeInstallments { get; set; }
+        public IEnumerable<TbProjectInstallment> lstProjectInstallments { get; set; }
 
 
 
