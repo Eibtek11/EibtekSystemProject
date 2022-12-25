@@ -33,7 +33,7 @@
 
 
                                                     <div class="form-group" data-select2-id="126">
-                                                      
+                                                        <input asp-for="CreatedDate" type="hidden" class="form-control">
                                                         <input asp-for="ProjectInstallmentId" type="hidden" class="form-control">
                                                         <select class="select2 form-control select2-hidden-accessible" asp-for="ProjectId" asp-items="@(new SelectList(ViewBag.Projects , "ProjectId" , "ProjectName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
                                                         </select>
@@ -62,8 +62,8 @@
                                                     <div class="col-md-6 col-12">
                                                         <div class="form-label-group">
                                                          
-                                                        <input type="text" id="first-name-column" class="form-control" placeholder="Project Installment Description" asp-for="ProjectInstallmentDescription">
-                                                        <label for="first-name-column">Project Installment Description</label>
+                                                        <input type="text" id="first-name-column" class="form-control" placeholder="Paid Project Installment" asp-for="CreatedBy">
+                                                        <label for="first-name-column">Paid Project Installment </label>
                                                         </div>
                                                     </div>
                                                     <div class="col-md-6 col-12">

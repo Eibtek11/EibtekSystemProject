@@ -34,7 +34,7 @@
                                 <th>Project Name</th>
                                 <th>Client Name</th>
                                 <th>Sales Employee Name</th>
-                                <th>Project Installment Description</th>
+                                <th>Paid Project Installment </th>
 
                                 <th>Project Installment Value</th>
                                 <th>Sales Installment Value</th>
@@ -44,6 +44,7 @@
                                
                                    
                                     <th>Action</th>
+                                <th>Paying</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -59,15 +60,22 @@
                                     <td class="product-name">@Model.lstProjects.Where(A=> A.ProjectId == item.ProjectId).FirstOrDefault().ProjectName </td>
                                      <td class="product-name">@Model.lsClients.Where(A=> A.ClientId == item.ClientId).FirstOrDefault().ClientName </td>
                                     <td class="product-name">@Model.lstbEmployees.Where(A=> A.EmployeeId == item.SalesEmployeeId).FirstOrDefault().EmplyeeName </td>
-                                    <td class="product-category">@item.ProjectInstallmentDescription</td>
+                                    <td class="product-category">@item.CreatedBy</td>
                                     <td class="product-category">@item.ProjectInstallmentValue</td>
                                     <td class="product-category">@item.SalesInstallmentValue</td>
                                     <td class="product-category">@item.ProjectInstallmentDate</td>
                                     
                                    
                                     <td class="product-action">
-                                        <a asp-controller="ProjectInstallment" asp-action="Form" asp-route-id="@item.ProjectId"><span><i class="feather icon-edit"></i></span></a>
-                                        <a asp-controller="ProjectInstallment" asp-action="Delete" asp-route-id="@item.ProjectId"><span class="action-delete"><i class="feather icon-trash"></i></span></a>
+                                        <a asp-controller="ProjectInstallment" asp-action="Form" asp-route-id="@item.ProjectInstallmentId"><span><i class="feather icon-edit"></i></span></a>
+                                        <a asp-controller="ProjectInstallment" asp-action="Delete" asp-route-id="@item.ProjectInstallmentId"><span class="action-delete"><i class="feather icon-trash"></i></span></a>
+                                       
+                                        
+ 
+                                    </td>
+                                    <td class="product-action">
+                                        <a asp-controller="PaidProjectInstallment" asp-action="Form2" asp-route-id="@item.ProjectInstallmentId"><button class="btn mr-1 mb-1 btn-primary btn-sm waves-effect waves-light">PAY PROJECT </button></a>
+                                     
                                     </td>
                                 </tr>
 

@@ -39,6 +39,8 @@ namespace EibtekSystemProject.Areas.Admin.Controllers
             model.lsClients = clientService.getAll();
             model.lstPaidProjectInstallments = paidProjectInstallmentService.getAll();
             model.lstPaidSalesEmplyeeInstallments = paidSalesEmplyeeInstallmentService.getAll();
+            model.lstbEmployees = employeeService.getAll().Where(a => a.EmployeeCategoryId == Guid.Parse("935b10a7-b48d-4ae6-a7a7-df2630dbb7ef"));
+            model.lstProjects = projectService.getAll();
             return View(model);
 
 
@@ -51,6 +53,47 @@ namespace EibtekSystemProject.Areas.Admin.Controllers
 
             if (ITEM.PaidSalesEmplyeeInstallmentId == Guid.Parse("00000000-0000-0000-0000-000000000000"))
             {
+                int pays = 0;
+                if (ctx.TbPaidSalesEmplyeeInstallments.Where(a => a.ProjectInstallmentId == ITEM.ProjectInstallmentId).ToList().Count > 0)
+                {
+                    foreach (var i in ctx.TbPaidSalesEmplyeeInstallments.Where(a => a.ProjectInstallmentId == ITEM.ProjectInstallmentId).ToList())
+                    {
+                        pays += int.Parse(i.PaidSalesInstallmentValue);
+                    }
+                    TbPaidProjectInstallment ooPaidProjectInstallment = ctx.TbPaidProjectInstallments.Where(a => a.ProjectInstallmentId == ITEM.ProjectInstallmentId).FirstOrDefault();
+                    if (int.Parse(ITEM.PaidSalesInstallmentValue) + pays == int.Parse(ITEM.SalesInstallmentValue) || int.Parse(ITEM.PaidSalesInstallmentValue) + pays > int.Parse(ITEM.SalesInstallmentValue))
+                    {
+                        ooPaidProjectInstallment.CurrentState = 0;
+                        int totlaPay = int.Parse(ITEM.PaidSalesInstallmentValue) + pays;
+                        ooPaidProjectInstallment.Notes = totlaPay.ToString();
+                        ooPaidProjectInstallment.UpdatedDate = ITEM.SalesInstallmentValue;
+                    }
+                    else
+                    {
+                        int totlaPay = int.Parse(ITEM.PaidSalesInstallmentValue) + pays;
+                        ooPaidProjectInstallment.Notes = totlaPay.ToString();
+                        ooPaidProjectInstallment.UpdatedDate = ITEM.SalesInstallmentValue;
+                    }
+                    paidProjectInstallmentService.Edit(ooPaidProjectInstallment);
+
+
+                }
+                else
+                {
+                    TbPaidProjectInstallment ooPaidProjectInstallment = ctx.TbPaidProjectInstallments.Where(a => a.ProjectInstallmentId == ITEM.ProjectInstallmentId).FirstOrDefault();
+                    if (ITEM.PaidSalesInstallmentValue == ITEM.SalesInstallmentValue || int.Parse(ITEM.PaidSalesInstallmentValue) > int.Parse(ITEM.SalesInstallmentValue))
+                    {
+                        ooPaidProjectInstallment.CurrentState = 0;
+                        ooPaidProjectInstallment.Notes = ITEM.PaidSalesInstallmentValue;
+                        ooPaidProjectInstallment.UpdatedDate = ITEM.SalesInstallmentValue;
+                    }
+                    else
+                    {
+                        ooPaidProjectInstallment.Notes = ITEM.PaidSalesInstallmentValue;
+                        ooPaidProjectInstallment.UpdatedDate = ITEM.SalesInstallmentValue;
+                    }
+                    paidProjectInstallmentService.Edit(ooPaidProjectInstallment);
+                }
 
                 foreach (var file in files)
                 {
@@ -115,6 +158,8 @@ namespace EibtekSystemProject.Areas.Admin.Controllers
             model.lsClients = clientService.getAll();
             model.lstPaidProjectInstallments = paidProjectInstallmentService.getAll();
             model.lstPaidSalesEmplyeeInstallments = paidSalesEmplyeeInstallmentService.getAll();
+            model.lstbEmployees = employeeService.getAll().Where(a => a.EmployeeCategoryId == Guid.Parse("935b10a7-b48d-4ae6-a7a7-df2630dbb7ef"));
+            model.lstProjects = projectService.getAll();
             return View("Index", model);
         }
 
@@ -141,6 +186,8 @@ namespace EibtekSystemProject.Areas.Admin.Controllers
             model.lsClients = clientService.getAll();
             model.lstPaidProjectInstallments = paidProjectInstallmentService.getAll();
             model.lstPaidSalesEmplyeeInstallments = paidSalesEmplyeeInstallmentService.getAll();
+            model.lstbEmployees = employeeService.getAll().Where(a => a.EmployeeCategoryId == Guid.Parse("935b10a7-b48d-4ae6-a7a7-df2630dbb7ef"));
+            model.lstProjects = projectService.getAll();
             return View("Index", model);
 
 
@@ -154,6 +201,21 @@ namespace EibtekSystemProject.Areas.Admin.Controllers
         {
             TbPaidSalesEmplyeeInstallment oldItem = ctx.TbPaidSalesEmplyeeInstallments.Where(a => a.PaidSalesEmplyeeInstallmentId == id).FirstOrDefault();
 
+            ViewBag.Employees = employeeService.getAll().Where(a => a.EmployeeCategoryId == Guid.Parse("935b10a7-b48d-4ae6-a7a7-df2630dbb7ef"));
+            return View(oldItem);
+        }
+        public IActionResult Form2(Guid? id , Guid? id2)
+        {
+            TbProjectInstallment oTbProjectInstallment = ctx.TbProjectInstallments.Where(a => a.ProjectInstallmentId == id).FirstOrDefault();
+            TbPaidProjectInstallment oTbPaidProjectInstallment = ctx.TbPaidProjectInstallments.Where(a => a.PaidProjectInstallmentId == id2).FirstOrDefault();
+            TbPaidSalesEmplyeeInstallment oldItem = new TbPaidSalesEmplyeeInstallment();
+            
+            oldItem.ProjectInstallmentId = oTbProjectInstallment.ProjectInstallmentId;
+            oldItem.CreatedBy = oTbProjectInstallment.ProjectId.ToString();
+            oldItem.SalesEmployeeId = oTbProjectInstallment.SalesEmployeeId;
+            oldItem.SalesInstallmentValue = oTbProjectInstallment.SalesInstallmentValue;
+            oldItem.UpdatedBy = oTbProjectInstallment.ProjectInstallmentDate;
+            oldItem.Notes = oTbPaidProjectInstallment.PaidProjectInstallmentId.ToString();
             ViewBag.Employees = employeeService.getAll().Where(a => a.EmployeeCategoryId == Guid.Parse("935b10a7-b48d-4ae6-a7a7-df2630dbb7ef"));
             return View(oldItem);
         }

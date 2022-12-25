@@ -553,8 +553,9 @@ namespace BL.Migrations
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)");
 
-                    b.Property<DateTime?>("UpdatedDate")
-                        .HasColumnType("datetime");
+                    b.Property<string>("UpdatedDate")
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.HasKey("PaidProjectInstallmentId")
                         .HasName("PK_TbProjectPaidInstallment");

@@ -35,7 +35,7 @@ namespace EibtekSystemProject.Areas.Admin.Controllers
         {
             HomePageModel model = new HomePageModel();
             model.lsClients = clientService.getAll();
-            model.lstProjectInstallments = projectInstallmentService.getAll();
+            model.lstProjectInstallments = projectInstallmentService.getAll().Where(a=> a.CurrentState == 1);
             model.lstProjects = projectService.getAll();
             model.lstbEmployees = employeeService.getAll();
             return View(model);
@@ -112,7 +112,7 @@ namespace EibtekSystemProject.Areas.Admin.Controllers
 
             HomePageModel model = new HomePageModel();
             model.lsClients = clientService.getAll();
-            model.lstProjectInstallments = projectInstallmentService.getAll();
+            model.lstProjectInstallments = projectInstallmentService.getAll().Where(a => a.CurrentState == 1);
             model.lstProjects = projectService.getAll();
             model.lstbEmployees = employeeService.getAll();
             return View("Index", model);

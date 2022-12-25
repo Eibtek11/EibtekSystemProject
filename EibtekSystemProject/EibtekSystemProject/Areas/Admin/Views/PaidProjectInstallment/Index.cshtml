@@ -31,14 +31,19 @@
                                 <tr>
                                     <th></th>
                                    @* <th>Image</th>*@
-                                <th>Sales Employee</th>
+                                <th>Project Name</th>
                                 <th>Project Installment Value</th>
+                                <th>Project Installment Date</th>
                                    @* <th>POPULARITY</th>*@
                                    @* <th>ORDER STATUS</th>*@
                                 <th>Paid Project Installment Value</th>
+                                   <th>Paid Project Installment Date</th>
                                 <th>Paid Project Installment Document</th>
+                                <th>Sales Employee Installment value</th>
+                                <th>Paid Sales Employee Installment value</th>
                                    
                                     <th>Action</th>
+                                <th>Paying</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -51,13 +56,19 @@
                                    @* <td class="product-img">
                                         <img src="~/Admin/app-assets/images/elements/apple-watch.png" alt="Img placeholder">
                                     </td>*@
-                                    <td class="product-name">@Model.lstbEmployees.Where(A=> A.EmployeeId == item.SalesEmployeeId).FirstOrDefault().EmplyeeName </td>
+                                    <td class="product-name">@Model.lstProjects.Where(A=> A.ProjectId == Guid.Parse(item.CreatedBy)).FirstOrDefault().ProjectName </td>
+                                   
                                     <td class="product-category">@item.ProjectInstallmentValue</td>
+                                    <td class="product-category">@item.UpdatedBy</td>
                                     <td class="product-category">@item.PaidProjectInstallmentValue</td>
+                                    <td class="product-category">@item.CreatedDate</td>
+                                 
                                      <td class="product-img">
                                         <a href="@string.Format("/Uploads/{0}",item.PaidProjectInstallmentDocument)" class="btn btn-primary" target="_blank">Read Now</a>
                                       
                                     </td>
+                                    <td class="product-category">@item.UpdatedDate</td>
+                                    <td class="product-category">@item.Notes</td>
                                   @*  <td>
                                         <div class="progress progress-bar-success">
                                             <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="40" aria-valuemax="100" style="width:97%"></div>
@@ -74,6 +85,10 @@
                                     <td class="product-action">
                                         <a asp-controller="PaidProjectInstallment" asp-action="Form" asp-route-id="@item.PaidProjectInstallmentId"><span><i class="feather icon-edit"></i></span></a>
                                         <a asp-controller="PaidProjectInstallment" asp-action="Delete" asp-route-id="@item.PaidProjectInstallmentId"><span class="action-delete"><i class="feather icon-trash"></i></span></a>
+                                    </td>
+                                    <td class="product-action">
+                                     
+                                        <a asp-controller="PaidSalesEmplyeeInstallment" asp-action="Form2" asp-route-id="@item.ProjectInstallmentId" asp-route-id2="@item.PaidProjectInstallmentId"><button class="btn mr-1 mb-1 btn-primary btn-sm waves-effect waves-light">PAY SALES </button></a>
                                     </td>
                                 </tr>
 

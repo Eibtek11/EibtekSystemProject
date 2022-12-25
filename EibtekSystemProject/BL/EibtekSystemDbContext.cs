@@ -309,7 +309,7 @@ namespace BL
 
                 entity.Property(e => e.UpdatedBy).HasMaxLength(200);
 
-                entity.Property(e => e.UpdatedDate).HasColumnType("datetime");
+                entity.Property(e => e.UpdatedDate).HasMaxLength(200);
 
                 entity.HasOne(d => d.ProjectInstallment)
                     .WithMany(p => p.TbPaidProjectInstallments)

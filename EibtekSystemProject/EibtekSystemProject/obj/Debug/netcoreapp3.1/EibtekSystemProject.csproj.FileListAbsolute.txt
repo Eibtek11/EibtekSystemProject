@@ -776,3 +776,5 @@ D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\A
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PaidSalesEmplyeeInstallment\Index.cshtml.g.cs
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProjectInstallment\Form.cshtml.g.cs
 D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProjectInstallment\Index.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PaidProjectInstallment\Form2.cshtml.g.cs
+D:\EibtekSystemProject\EibtekSystemProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PaidSalesEmplyeeInstallment\Form2.cshtml.g.cs

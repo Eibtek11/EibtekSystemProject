@@ -33,7 +33,11 @@
 
 
                                                     <div class="form-group" data-select2-id="126">
+                                                        <input asp-for="CurrentState" type="hidden" class="form-control">
+                                                        <input asp-for="CreatedDate" type="hidden" class="form-control">
                                                         <input asp-for="PaidProjectInstallmentId" type="hidden" class="form-control">
+                                                        <input asp-for="UpdatedBy" type="hidden" class="form-control">
+                                                        <input asp-for="CreatedBy" type="hidden" class="form-control">
                                                         <input asp-for="ProjectInstallmentId" type="hidden" class="form-control">
                                                         <select class="select2 form-control select2-hidden-accessible" asp-for="SalesEmployeeId" asp-items="@(new SelectList(ViewBag.Employees , "EmployeeId" , "EmplyeeName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
                                                         </select>

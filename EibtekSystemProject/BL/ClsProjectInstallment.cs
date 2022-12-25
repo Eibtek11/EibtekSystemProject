@@ -53,7 +53,14 @@ namespace BL
             try
             {
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
-
+                if(item.CreatedBy == item.ProjectInstallmentValue ||int.Parse(item.CreatedBy) > int.Parse(item.ProjectInstallmentValue))
+                {
+                    item.CurrentState = 0;
+                }
+                else
+                {
+                    item.CurrentState = 1;
+                }
                 ctx.Entry(item).State = EntityState.Modified;
                 ctx.SaveChanges();
                 return true;
